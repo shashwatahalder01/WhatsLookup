@@ -1,4 +1,6 @@
-# Communicator Web 
+# WhatsLookup
+
+"WhatsLookup" a tool designed to search and verify WhatsApp users based on phone numbers, offering features like contact discovery, user information, and status lookup.
 
 ## Installation
 ##### Use the package manager pip to install project dependency
